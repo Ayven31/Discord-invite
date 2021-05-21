@@ -1,0 +1,8 @@
+{
+  "botOwner": "YAPIMCI İD",
+  "botPrefix": "PREFİX",
+  "guildID": "SUNUCU İD",
+  "botVoiceChannelID": "BOT SES",
+  "inviteChannelID": "İNVİTE MESAJI",
+  "durum" : "BOT DURUM"
+}
